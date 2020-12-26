@@ -1,6 +1,3 @@
-# clustering-classification
-Clustering and Classification of airbnb data for final task of Machine Learning.
-
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 

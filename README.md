@@ -19,7 +19,7 @@ There are two models built for this dataset.
 
 ### Dataset
 Dataset is airbnb listing data found from [kaggle](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data?select=AB_NYC_2019.csv).
-Dataset contains sixteen columns and 22522 rows.
+Dataset contains 16 columns and 22522 rows.
 ### Built With
 * Python
 
